@@ -40,3 +40,6 @@ Donut chart showing sales distribution across North, South, East, and West regio
 
 Interactive Dashboard
 Dynamic visuals enabling quick business insights
+
+6. Screenshots
+   https://github.com/Tushar-Sarate/Electronics_Sales_-Data/blob/main/Snapchat%20of%20Dashboard.png
